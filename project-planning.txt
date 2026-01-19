@@ -1,0 +1,14 @@
+DataSet used:
+
+Model Used: MobileNetV2
+
+Database Used: 
+
+CNN prediction classification:
+1.Acne
+2.Dry skin
+3.Oily skin
+4.Normal skin
+
+Frontend Used: 
+
