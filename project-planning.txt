@@ -12,3 +12,21 @@ CNN prediction classification:
 
 Frontend Used: 
 
+---- LITERATURE REVIEW ----
+1. Facial Skin Aging Stages in Chinese Females 
+https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2022.870926/full?utm_source=chatgpt.com
+
+2. A study on AI-powered facial analysis for types of skin acne detection and oily-ness assessment and personalized product recommendations
+https://zenodo.org/records/17188971#:~:text=Acne%20vulgaris%20is%20a%20widespread,Beyond
+
+3. Automatic Acne Object Detection and Acne Severity Grading Using Smartphone Images and Artificial Intelligence
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9406819/#abstract1
+
+4. Development of the Mobile Application for Assessing Facial Acne Severity from Photos
+https://ieeexplore.ieee.org/document/9396382
+
+5. Deep learning-based skin care product recommendation: A focus on cosmetic ingredient analysis and facial skin conditions
+https://pubmed.ncbi.nlm.nih.gov/38411029/#:~:text=Aims%3A%20%20This%20article%20aims,combined%20with%20AI%20skin%20analysis
+
+6. Facial Skin Analysis and Product Recommendation System Using Deep Learning
+https://www.researchgate.net/publication/391366863_Facial_Skin_Analysis_and_Product_Recommendation_System_Using_Deep_Learning
